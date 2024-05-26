@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Notyourbing
-- 👀 I’m interested in software.
-- 🌱 I’m currently learning html, css, python, and cpp.
+- 👀 I’m interested in what I'm interested in.
+- 🌱 I’m currently learning nothing.
 - Welcome to have a discussion with me!
 
 <!---
