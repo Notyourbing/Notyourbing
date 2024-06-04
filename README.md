@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Notyourbing
-- 👀 I’m interested in what I'm interested in.
-- 🌱 I’m currently learning nothing.
+- 👋 Hi, Professor Yapeng Zhan from SOFTWARE ENGINNER school.
+- 👀 I teach OPERATING SYSTEM and HCI courses.
+- 🌱 My research direction is computer vision.
 - Welcome to have a discussion with me!
 
 <!---
