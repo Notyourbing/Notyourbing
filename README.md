@@ -1,6 +1,6 @@
-- 👋 Hi, Professor Yapeng Zhan from SOFTWARE ENGINNER school.
-- 👀 I teach OPERATING SYSTEM and HCI courses.
-- 🌱 My research direction is computer vision.
+- 👋 Hi, I'm Bingbing.
+- 👀 I major in software engineer.
+- 🌱 I'm learning nothing.(>_<)
 - Welcome to have a discussion with me!
 
 <!---
