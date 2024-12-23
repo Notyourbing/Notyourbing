@@ -1,6 +1,6 @@
-- 👋 Hi, I'm Bingbing.
-- 👀 I major in software engineer.
-- 🌱 I'm learning nothing.(>_<)
+- 👋 Hi, I'm Notyourbing.
+- 👀 I major in software engineer in Tongji University.
+- 🌱 Email: 2252750@tongji.edu.cn
 - Welcome to have a discussion with me!
 
 <!---
